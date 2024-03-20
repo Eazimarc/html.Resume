@@ -1,2 +1,2 @@
-# html.Resume
+# html-Resume
 My Resume
